@@ -1,0 +1,6 @@
+LICENSE
+setup.py
+app/fabricmassevac.egg-info/PKG-INFO
+app/fabricmassevac.egg-info/SOURCES.txt
+app/fabricmassevac.egg-info/dependency_links.txt
+app/fabricmassevac.egg-info/top_level.txt
