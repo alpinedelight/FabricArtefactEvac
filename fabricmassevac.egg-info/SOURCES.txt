@@ -1,0 +1,6 @@
+setup.py
+app/__init__.py
+fabricmassevac.egg-info/PKG-INFO
+fabricmassevac.egg-info/SOURCES.txt
+fabricmassevac.egg-info/dependency_links.txt
+fabricmassevac.egg-info/top_level.txt
